@@ -1,0 +1,22 @@
+body, html {
+}
+
+
+
+.section-container-book {
+	background-color: blue;
+}
+#soccer {
+	background-image: url("https://images.unsplash.com/photo-1566920989005-c4c3e239c12c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-weight: bold;
+	text-align: center;
+}
+
+#training {
+	color: black;
+}
+
+
